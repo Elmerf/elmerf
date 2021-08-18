@@ -1,4 +1,8 @@
-### Hi there 👋
+### Halo Semua 👋
+
+Perkenalkan nama saya **Elmer Fiqi Tajusaladin**  
+Sekarang saya masih menjadi mahasiswa D3 PJJ Teknik Informatika di [PENS](https://www.pens.ac.id/).  
+Mari berkenalan lebih jauh lewat [Linkedin](https://www.linkedin.com/in/elmerfiqi/)
 
 <!--
 **Elmerf/elmerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+<a href="https://github.com/elmerf">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elmerf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elmerf&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
