@@ -4,6 +4,7 @@
 I am Elmer Fiqi Tajusaladin, but you can call me **Elmer** or **Fiqi** if you want.  
 - 🏫 Now, I am enrolling as undergraduate student of The Electronic Engineering Polytechnic Institute of Surabaya (EEPIS) or [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/) (PENS)
 - 📖 I also study using FreeCodeCamp courses. You can check [my FreeCodeCamp profile page](https://www.freecodecamp.org/elmerfiqi).
+- 🏆 I solve Hackkerank questions in my free time to exercise my problem solving skill.
 - 📝 I started my first contribution on Vue 3 Project as Indonesian document translator.  
 - 😄 I like to studying and learning something new
 
@@ -13,6 +14,7 @@ What I've learned so far:
 - JavaScript
 - NodeJS
 - VueJS
+- ReactJS
 - MySQL/MariaDB
 - MongoDB
 - PHP
