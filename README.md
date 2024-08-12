@@ -2,7 +2,7 @@
 
 ### Let me introduce myself.  
 I am Elmer Fiqi Tajusaladin, but you can call me **Elmer** or **Fiqi** if you want.  
-- 🏫 Now, I am enrolling as undergraduate student of The Electronic Engineering Polytechnic Institute of Surabaya (EEPIS) or [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/) (PENS)
+- 🏫 I am a undergraduate student of The Electronic Engineering Polytechnic Institute of Surabaya (EEPIS) or [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/) (PENS)
 - 📖 I also study using FreeCodeCamp courses. You can check [my FreeCodeCamp profile page](https://www.freecodecamp.org/elmerfiqi).
 - 🏆 I solve Hackkerank questions in my free time to exercise my problem solving skill.
 - 📝 I started my first contribution on Vue 3 Project as Indonesian document translator.  
